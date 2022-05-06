@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/issues/t0rreto/PostregeSql-Qt)
+![](https://img.shields.io/github/languages/code-size/t0rreto/PostregeSql-Qt)
+
 <div align="center"> <h1> PostregeSql-Qt </h1> </div>
 
 <div align="center"> Client - server application based on demonstrating the use of the basic functions of postgres databases and interaction with the GUI</div>
